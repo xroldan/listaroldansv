@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="Movistar Copa" group="(no group)" logo="https://www.tvguia.es/sites/default/files/logo/m-supercopa_3.png", Movistar SuperCopa de España
+#EXTINF:0 type="stream" channelId="-1" name="Movistar Copa" group="(no group)" logo="https://www.tvguia.es/sites/default/files/logo/m-supercopa_3.png", Movistar Copa
 http://192.168.1.214:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:0 type="stream" channelId="-1" name="Movistar SuperCopa de España B" group="(no group)" logo="https://www.tvguia.es/sites/default/files/logo/m-supercopa_3.png", Movistar SuperCopa de España B
 http://192.168.1.214:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
