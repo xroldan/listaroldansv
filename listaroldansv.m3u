@@ -185,5 +185,7 @@ http://192.168.1.214:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4
 http://192.168.1.214:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e&pid=93
 #EXTINF:0 type="stream" channelId="-1" name="F1 TV 1080pB" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", F1 TV 1080pB
 http://192.168.1.214:6878/ace/getstream?id=036102d0e1f12a0295816fabe4b0a891e174be0b&pid=94
+#EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 1080p" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion 1080pjajaj
+http://172.17.160.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=95
 #EXTINF:0 type="stream" channelId="-1" name="F1 TV 1080pB B" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", F1 TV 1080pB B
 http://192.168.1.214:6878/ace/getstream?id=d2b62dc65b7a4b0b9d448de93771580a5eadef6c&pid=95
