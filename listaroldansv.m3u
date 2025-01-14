@@ -40,7 +40,7 @@ http://192.168.1.214:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2 720p" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2 720p
 http://192.168.1.214:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=20
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 3 1080p" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3 1080p
-http://192.168.1.214:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8&pid=21
+http://192.168.1.214:6878/ace/getstream?id=d1931d3295a3b52b0d60e2b024e021f66d3c2044&pid=21
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4 1080p" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4 1080p
 http://192.168.1.214:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=22
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1 1080p" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1 1080p
