@@ -67,5 +67,5 @@ http://192.168.1.214:6878/ace/getstream?id=65a18a6bd83918a9586b673fec12405aaf4e9
 http://192.168.1.214:6878/ace/getstream?id=11744c25a594e17d587ed0871fe40ff21b4bd1e0&pid=33
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 7" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png", M.L. Campeones 7
 http://192.168.1.214:6878/ace/getstream?id=fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd&pid=34
-#EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=35
+#EXTINF:0 type="stream" channelId="-1" name="Dazn 1" group="(no group)" logo="",Dazn 1
+http://192.168.1.214:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=34
