@@ -45,8 +45,8 @@ http://192.168.1.214:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c
 http://192.168.1.214:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879&pid=22
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2 HD
 http://192.168.1.214:6878/ace/getstream?id=911b6c35f4802fd358b78b328528af4650eca020&pid=23
-#EXTINF:0 type="stream" channelId="-1" name="M. Deportes 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", M. Deportes 3
-http://192.168.1.214:6878/ace/getstream?id=571bff4d12b1791eb99dbf20bec38e630693a6a3&pid=24
+#EXTINF:0 type="stream" channelId="-1" name="M. Deportes 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", M. Deportes 3 HD
+http://192.168.1.214:6878/ace/getstream?id=a54aed5e91e4a99a3582551db44fd472e1addda6&pid=24
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png", M. Deportes 4
 http://192.168.1.214:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&pid=25
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
