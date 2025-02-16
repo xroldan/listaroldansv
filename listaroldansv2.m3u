@@ -44,7 +44,7 @@ http://192.168.1.214:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
 http://192.168.1.214:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879&pid=22
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2 HD
-http://192.168.1.214:6878/ace/getstream?id=911b6c35f4802fd358b78b328528af4650eca020&pid=23
+http://192.168.1.214:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48&pid=23
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", M. Deportes 3 HD
 http://192.168.1.214:6878/ace/getstream?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e&pid=24
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png", M. Deportes 4
