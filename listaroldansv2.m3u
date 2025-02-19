@@ -1,71 +1,71 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" name="Copa 1080 plus" group="(no group)" logo="", Copa 1080 plus
-http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=1
+http://192.168.1.214:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=1
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=2
+http://192.168.1.214:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=2
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=3
+http://192.168.1.214:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=3
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=4
+http://192.168.1.214:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=4
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga 2
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=5
+http://192.168.1.214:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=5
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga 2
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=6
+http://192.168.1.214:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=6
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5&pid=7
+http://192.168.1.214:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5&pid=7
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=8
+http://192.168.1.214:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=8
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=9
+http://192.168.1.214:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=9
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4
-http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=10
+http://192.168.1.214:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=10
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://lh5.googleusercontent.com/GSWEgKn-0le7OuDkVfZ6pbfx3W8lZRw7aqyM5GfXXsYkeKraUULDaKgwdAlthcZYQwMMD9hu8uN7oPob4JhuCRKhBMoMGVsZywQ7e63ujMbOXLbFcSYbcpDEh0Ow5VhckQ=w1280", LaLiga TV Bar
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=11
+http://192.168.1.214:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=11
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://lh5.googleusercontent.com/GSWEgKn-0le7OuDkVfZ6pbfx3W8lZRw7aqyM5GfXXsYkeKraUULDaKgwdAlthcZYQwMMD9hu8uN7oPob4JhuCRKhBMoMGVsZywQ7e63ujMbOXLbFcSYbcpDEh0Ow5VhckQ=w1280", LaLiga TV Bar
-http://127.0.0.1:6878/ace/getstream?id=b05e54ad63a1df17a75366f21284d96baa697998&pid=12
+http://192.168.1.214:6878/ace/getstream?id=b05e54ad63a1df17a75366f21284d96baa697998&pid=12
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=13
+http://192.168.1.214:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=13
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&pid=14
+http://192.168.1.214:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&pid=14
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=15
+http://192.168.1.214:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=15
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png", M. LaLiga 2
-http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=16
+http://192.168.1.214:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=16
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=17
+http://192.168.1.214:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=17
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
-http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=18
+http://192.168.1.214:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=18
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=19
+http://192.168.1.214:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=19
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=20
+http://192.168.1.214:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=20
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=21
+http://192.168.1.214:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=21
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png", Movistar Plus
-http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=22
+http://192.168.1.214:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=22
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&pid=23
+http://192.168.1.214:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&pid=23
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=24
+http://192.168.1.214:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=24
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879&pid=25
+http://192.168.1.214:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879&pid=25
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=26
+http://192.168.1.214:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=26
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png", M. Deportes 4
-http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&pid=27
+http://192.168.1.214:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&pid=27
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478&pid=28
+http://192.168.1.214:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478&pid=28
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a&pid=29
+http://192.168.1.214:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a&pid=29
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247&pid=30
+http://192.168.1.214:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247&pid=30
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0&pid=31
+http://192.168.1.214:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0&pid=31
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067&pid=32
+http://192.168.1.214:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067&pid=32
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png", M.L. Campeones 3
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2&pid=33
+http://192.168.1.214:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2&pid=33
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png", M.L. Campeones 4
-http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f&pid=34
+http://192.168.1.214:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f&pid=34
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=35
+http://192.168.1.214:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=35
