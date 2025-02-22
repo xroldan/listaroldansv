@@ -17,6 +17,8 @@ http://192.168.1.214:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9a
 http://192.168.1.214:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=8
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
 http://192.168.1.214:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=9
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3
+http://192.168.1.214:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=80
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4
 http://192.168.1.214:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=10
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://lh5.googleusercontent.com/GSWEgKn-0le7OuDkVfZ6pbfx3W8lZRw7aqyM5GfXXsYkeKraUULDaKgwdAlthcZYQwMMD9hu8uN7oPob4JhuCRKhBMoMGVsZywQ7e63ujMbOXLbFcSYbcpDEh0Ow5VhckQ=w1280", LaLiga TV Bar
