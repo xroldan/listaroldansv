@@ -24,7 +24,7 @@ http://192.168.1.214:6879/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://lh5.googleusercontent.com/GSWEgKn-0le7OuDkVfZ6pbfx3W8lZRw7aqyM5GfXXsYkeKraUULDaKgwdAlthcZYQwMMD9hu8uN7oPob4JhuCRKhBMoMGVsZywQ7e63ujMbOXLbFcSYbcpDEh0Ow5VhckQ=w1280", LaLiga TV Bar
 http://192.168.1.214:6879/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=11
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://lh5.googleusercontent.com/GSWEgKn-0le7OuDkVfZ6pbfx3W8lZRw7aqyM5GfXXsYkeKraUULDaKgwdAlthcZYQwMMD9hu8uN7oPob4JhuCRKhBMoMGVsZywQ7e63ujMbOXLbFcSYbcpDEh0Ow5VhckQ=w1280", LaLiga TV Bar
-http://192.168.1.214:6879/ace/getstream?id=b05e54ad63a1df17a75366f21284d96baa697998&pid=12
+http://192.168.1.214:6879/ace/getstream?id=94423f1646ded48f1125a7395815e1a52539c187&pid=12
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
 http://192.168.1.214:6879/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=13
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
