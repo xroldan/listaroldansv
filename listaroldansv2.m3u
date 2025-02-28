@@ -40,7 +40,9 @@ http://192.168.1.214:6879/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
 http://192.168.1.214:6879/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=19
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://192.168.1.214:6879/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=20
+http://192.168.1.214:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=20
+#EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
 http://192.168.1.214:6879/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=21
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png", Movistar Plus
