@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="AAACopa 1080 plus" group="(no group)" logo="", Copa 1080 plus
+#EXTINF:0 type="stream" channelId="-1" name="Copa 1080 plus" group="(no group)" logo="", Copa 1080 plus
 http://192.168.1.214:6877/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580&pid=1
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
 http://192.168.1.214:6877/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=2
