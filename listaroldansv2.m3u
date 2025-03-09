@@ -2,222 +2,216 @@
 #EXTINF:0 type="stream" channelId="-1" name="Copa 1080 plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png", Copa 1080 plus
 http://192.168.1.214:6877/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=1
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=2
+http://192.168.1.214:6877/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=2
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=3
+http://192.168.1.214:6877/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=3
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
 http://192.168.1.214:6877/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47&pid=4
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
+http://192.168.1.214:6877/ace/manifest.m3u8?id=75251ba975132ec9a202806ba5bf606e87280c96&pid=5
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=5
+http://192.168.1.214:6877/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=6
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=6
+http://192.168.1.214:6877/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=7
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=71a65780b9c542a8c9e4084ae5aefdd9286da51e&pid=7
-#EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59&pid=8
+http://192.168.1.214:6877/ace/manifest.m3u8?id=71a65780b9c542a8c9e4084ae5aefdd9286da51e&pid=8
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
 http://192.168.1.214:6877/ace/manifest.m3u8?id=d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab&pid=9
-#EXTINF:0 type="stream" channelId="-1" name="DAZN 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&pid=10
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=11
+http://192.168.1.214:6877/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=10
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=12
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=11
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=13
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=12
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=14
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=13
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&pid=15
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&pid=14
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", DAZN 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&pid=16
+http://192.168.1.214:6877/ace/manifest.m3u8?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&pid=15
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8&pid=17
+http://192.168.1.214:6877/ace/manifest.m3u8?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8&pid=16
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=18
+http://192.168.1.214:6877/ace/manifest.m3u8?id=5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc&pid=17
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=19
-#EXTINF:0 type="stream" channelId="-1" name="DAZN 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png", DAZN 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc&pid=20
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=18
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=21
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4e83f23945ab3e43982045f88ec31daaa4683102&pid=19
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=22
+http://192.168.1.214:6877/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=20
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png", DAZN 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988&pid=23
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988&pid=21
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&pid=24
+http://192.168.1.214:6877/ace/manifest.m3u8?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&pid=22
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=25
+http://192.168.1.214:6877/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=23
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=26
+http://192.168.1.214:6877/ace/manifest.m3u8?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=24
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=27
+http://192.168.1.214:6877/ace/manifest.m3u8?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=25
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=8c006afa7086d845ab106ddb76704230e61b315b&pid=28
+http://192.168.1.214:6877/ace/manifest.m3u8?id=8c006afa7086d845ab106ddb76704230e61b315b&pid=26
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa&pid=29
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa&pid=27
 #EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", DAZN F1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=30
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=28
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga TV Bar" group="(no group)" logo="https://th.bing.com/th/id/OIP.C8meH-ub9vistVRCuz6whwHaEK?rs=1&pid=ImgDetMain", LaLiga TV Bar
-http://192.168.1.214:6877/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=31
+http://192.168.1.214:6877/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f&pid=29
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&pid=32
+http://192.168.1.214:6877/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&pid=30
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=33
+http://192.168.1.214:6877/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=31
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=34
+http://192.168.1.214:6877/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=32
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=35
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=33
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=36
+http://192.168.1.214:6877/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=34
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga TV" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", M. LaLiga TV
-http://192.168.1.214:6877/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99&pid=37
+http://192.168.1.214:6877/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99&pid=35
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png", M. LaLiga 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=38
+http://192.168.1.214:6877/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=36
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png", M. LaLiga 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4&pid=39
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4&pid=37
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png", M. LaLiga 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f&pid=40
+http://192.168.1.214:6877/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f&pid=38
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
-http://192.168.1.214:6877/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980&pid=41
+http://192.168.1.214:6877/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980&pid=39
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=42
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=40
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4e066df67d118f95b41f850869abdc663c515186&pid=43
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4e066df67d118f95b41f850869abdc663c515186&pid=41
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=44
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=42
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=45
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=43
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=46
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=44
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://192.168.1.214:6877/ace/manifest.m3u8?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&pid=47
+http://192.168.1.214:6877/ace/manifest.m3u8?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&pid=45
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://192.168.1.214:6877/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&pid=48
+http://192.168.1.214:6877/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&pid=46
 #EXTINF:0 type="stream" channelId="-1" name="M.#Vamos" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M.#Vamos
-http://192.168.1.214:6877/ace/manifest.m3u8?id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d&pid=49
+http://192.168.1.214:6877/ace/manifest.m3u8?id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d&pid=47
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png", Movistar Plus
-http://192.168.1.214:6877/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=50
+http://192.168.1.214:6877/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=48
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png", Movistar Plus
-http://192.168.1.214:6877/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=51
+http://192.168.1.214:6877/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=49
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png", Movistar Plus 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=bbd251f89bc7716e2bef237906ecfba3c562ecde&pid=52
+http://192.168.1.214:6877/ace/manifest.m3u8?id=bbd251f89bc7716e2bef237906ecfba3c562ecde&pid=50
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&pid=53
+http://192.168.1.214:6877/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&pid=51
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=54
+http://192.168.1.214:6877/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=52
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879&pid=55
+http://192.168.1.214:6877/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879&pid=53
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=32bb94fe8047be0fddd13d3e3755b46e48fe70b1&pid=56
+http://192.168.1.214:6877/ace/manifest.m3u8?id=32bb94fe8047be0fddd13d3e3755b46e48fe70b1&pid=54
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=57
+http://192.168.1.214:6877/ace/manifest.m3u8?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=55
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=58
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=56
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=59
+http://192.168.1.214:6877/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=57
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=60
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=58
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", M. Deportes 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=61
+http://192.168.1.214:6877/ace/manifest.m3u8?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=59
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", M. Deportes 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3&pid=62
+http://192.168.1.214:6877/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3&pid=60
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", M. Deportes 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=985896872c52d04030c112ca99584046d022a349&pid=63
+http://192.168.1.214:6877/ace/manifest.m3u8?id=985896872c52d04030c112ca99584046d022a349&pid=61
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png", M. Deportes 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&pid=64
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb&pid=62
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png", M. Deportes 4
-http://192.168.1.214:6877/ace/manifest.m3u8?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=65
+http://192.168.1.214:6877/ace/manifest.m3u8?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=63
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 5" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png", M. Deportes 5
-http://192.168.1.214:6877/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=66
+http://192.168.1.214:6877/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=64
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 5" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png", M. Deportes 5
-http://192.168.1.214:6877/ace/manifest.m3u8?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=67
+http://192.168.1.214:6877/ace/manifest.m3u8?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=65
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 6" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png", M. Deportes 6
-http://192.168.1.214:6877/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=68
+http://192.168.1.214:6877/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=66
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes 7" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png", M. Deportes 7
-http://192.168.1.214:6877/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=69
+http://192.168.1.214:6877/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=67
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478&pid=70
-#EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones MultiAudio" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", M.L. Campeones MultiAudio
-http://192.168.1.214:6877/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f&pid=71
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478&pid=68
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", M.L. Campeones 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=72
+http://192.168.1.214:6877/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=69
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", M.L. Campeones 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=deb8972491e3817ba2335662d7855d2c2c05a900&pid=73
+http://192.168.1.214:6877/ace/manifest.m3u8?id=deb8972491e3817ba2335662d7855d2c2c05a900&pid=70
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", M.L. Campeones 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7&pid=74
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7&pid=71
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", M.L. Campeones 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=f3da41759de162f942cd1507c1755bd1d58948ed&pid=75
+http://192.168.1.214:6877/ace/manifest.m3u8?id=f3da41759de162f942cd1507c1755bd1d58948ed&pid=72
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", M.L. Campeones 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e&pid=76
+http://192.168.1.214:6877/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e&pid=73
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png", M.L. Campeones 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb&pid=77
+http://192.168.1.214:6877/ace/manifest.m3u8?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb&pid=74
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png", M.L. Campeones 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da&pid=78
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da&pid=75
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 3" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png", M.L. Campeones 3
-http://192.168.1.214:6877/ace/manifest.m3u8?id=509e91774b5b2d0af80883c8d4217c3b53235231&pid=79
+http://192.168.1.214:6877/ace/manifest.m3u8?id=509e91774b5b2d0af80883c8d4217c3b53235231&pid=76
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 5" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png", M.L. Campeones 5
-http://192.168.1.214:6877/ace/manifest.m3u8?id=7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff&pid=80
+http://192.168.1.214:6877/ace/manifest.m3u8?id=7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff&pid=77
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 7" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png", M.L. Campeones 7
-http://192.168.1.214:6877/ace/manifest.m3u8?id=c1de133576bc8b82db0891d850f5e2d448dac9d6&pid=81
+http://192.168.1.214:6877/ace/manifest.m3u8?id=c1de133576bc8b82db0891d850f5e2d448dac9d6&pid=78
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 7" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png", M.L. Campeones 7
-http://192.168.1.214:6877/ace/manifest.m3u8?id=dd2560f13537aa362839d53265b9584a785558ef&pid=82
+http://192.168.1.214:6877/ace/manifest.m3u8?id=dd2560f13537aa362839d53265b9584a785558ef&pid=79
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 8" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png", M.L. Campeones 8
-http://192.168.1.214:6877/ace/manifest.m3u8?id=67492877ee4314e8e88c49eaedc82c556750ae9f&pid=83
+http://192.168.1.214:6877/ace/manifest.m3u8?id=67492877ee4314e8e88c49eaedc82c556750ae9f&pid=80
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 9" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png", M.L. Campeones 9
-http://192.168.1.214:6877/ace/manifest.m3u8?id=7dd235ecd152c3d303f29aeaa0728d5c8b588f7c&pid=84
+http://192.168.1.214:6877/ace/manifest.m3u8?id=7dd235ecd152c3d303f29aeaa0728d5c8b588f7c&pid=81
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 10" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png", M.L. Campeones 10
-http://192.168.1.214:6877/ace/manifest.m3u8?id=a792ff171d110e6d890cb1b5db9d6507d1f292b7&pid=85
+http://192.168.1.214:6877/ace/manifest.m3u8?id=a792ff171d110e6d890cb1b5db9d6507d1f292b7&pid=82
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 11" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png", M.L. Campeones 11
-http://192.168.1.214:6877/ace/manifest.m3u8?id=acd1991f35379b01cb09b6a7cc4390c34c6e2bf9&pid=86
+http://192.168.1.214:6877/ace/manifest.m3u8?id=acd1991f35379b01cb09b6a7cc4390c34c6e2bf9&pid=83
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 12" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png", M.L. Campeones 12
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d8550602603193bfa75bf61587dbbb9b3a9a00c7&pid=87
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d8550602603193bfa75bf61587dbbb9b3a9a00c7&pid=84
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 13" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png", M.L. Campeones 13
-http://192.168.1.214:6877/ace/manifest.m3u8?id=d697e4effe3525a0bc64a5c141d766e9ee6c11a3&pid=88
+http://192.168.1.214:6877/ace/manifest.m3u8?id=d697e4effe3525a0bc64a5c141d766e9ee6c11a3&pid=85
 #EXTINF:0 type="stream" channelId="-1" name="M.L. Campeones 13" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png", M.L. Campeones 13
-http://192.168.1.214:6877/ace/manifest.m3u8?id=43515b0f66e642bfcd800298006911658e208b49&pid=89
+http://192.168.1.214:6877/ace/manifest.m3u8?id=43515b0f66e642bfcd800298006911658e208b49&pid=86
 #EXTINF:0 type="stream" channelId="-1" name="Tennis Channel" group="(no group)" logo="", Tennis Channel
-http://192.168.1.214:6877/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=90
+http://192.168.1.214:6877/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=87
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=f5a5a5bf9903bde0c865e421f126c42e514ff787&pid=91
+http://192.168.1.214:6877/ace/manifest.m3u8?id=f5a5a5bf9903bde0c865e421f126c42e514ff787&pid=88
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50&pid=92
+http://192.168.1.214:6877/ace/manifest.m3u8?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50&pid=89
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3&pid=93
+http://192.168.1.214:6877/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3&pid=90
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad&pid=94
+http://192.168.1.214:6877/ace/manifest.m3u8?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad&pid=91
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=95120cee8223e9af839994ecc2b96aef05f8a151&pid=95
+http://192.168.1.214:6877/ace/manifest.m3u8?id=95120cee8223e9af839994ecc2b96aef05f8a151&pid=92
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", EuroSport 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d&pid=96
+http://192.168.1.214:6877/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d&pid=93
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", EuroSport 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934&pid=97
+http://192.168.1.214:6877/ace/manifest.m3u8?id=0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934&pid=94
 #EXTINF:0 type="stream" channelId="-1" name="LA 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png", LA 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=7225e4b281975f1a36d61dfd9724b669d7747b70&pid=98
+http://192.168.1.214:6877/ace/manifest.m3u8?id=7225e4b281975f1a36d61dfd9724b669d7747b70&pid=95
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6877/ace/manifest.m3u8?id=c0803ffef120a6ec036329ce3fe2e95018cc5958&pid=99
+http://192.168.1.214:6877/ace/manifest.m3u8?id=c0803ffef120a6ec036329ce3fe2e95018cc5958&pid=96
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6877/ace/manifest.m3u8?id=20d44589bc1e51ffb60d2cd98fb24019c6736772&pid=100
+http://192.168.1.214:6877/ace/manifest.m3u8?id=20d44589bc1e51ffb60d2cd98fb24019c6736772&pid=97
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6877/ace/manifest.m3u8?id=c0d688a5045c5446c35f802a567ac3f0fa72b4b6&pid=101
+http://192.168.1.214:6877/ace/manifest.m3u8?id=c0d688a5045c5446c35f802a567ac3f0fa72b4b6&pid=98
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6877/ace/manifest.m3u8?id=2dcc9fa21935872130029206395a12cd10533a75&pid=102
+http://192.168.1.214:6877/ace/manifest.m3u8?id=2dcc9fa21935872130029206395a12cd10533a75&pid=99
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Supercopa" group="(no group)" logo="", Movistar Supercopa
-http://192.168.1.214:6877/ace/manifest.m3u8?id=99364e3a5ed2afc8421dfa6332df194761166c03&pid=103
+http://192.168.1.214:6877/ace/manifest.m3u8?id=99364e3a5ed2afc8421dfa6332df194761166c03&pid=100
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 (DE)" group="(no group)" logo="", DAZN 1 (DE)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229&pid=104
+http://192.168.1.214:6877/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229&pid=101
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 BAR" group="(no group)" logo="", DAZN 1 BAR
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c&pid=105
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c&pid=102
 #EXTINF:0 type="stream" channelId="-1" name="SuperTennis" group="(no group)" logo="", SuperTennis
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3&pid=106
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3&pid=103
 #EXTINF:0 type="stream" channelId="-1" name="SuperTennis" group="(no group)" logo="", SuperTennis
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=107
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=104
 #EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 4 (POL)" group="(no group)" logo="https://th.bing.com/th/id/OIP.llXIXyJ3vWbn1wNxBlgxCwHaEK?rs=1&pid=ImgDetMain", Polsat Sport Premium 4 (POL)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=00f775079c002195563f3dc0a88e355bc19162b2&pid=108
+http://192.168.1.214:6877/ace/manifest.m3u8?id=00f775079c002195563f3dc0a88e355bc19162b2&pid=105
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 (POR)" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1 (POR)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=e0166eb5ca75d311a936eb12705c0cd52b622f06&pid=109
+http://192.168.1.214:6877/ace/manifest.m3u8?id=e0166eb5ca75d311a936eb12705c0cd52b622f06&pid=106
 #EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 1 (UK)" group="(no group)" logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg", TNT SPORTS 1 (UK)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=110
+http://192.168.1.214:6877/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=107
 #EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 1 (UK)" group="(no group)" logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg", TNT SPORTS 1 (UK)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=03e03232703d299b6c5734f551f6b2732f805705&pid=111
+http://192.168.1.214:6877/ace/manifest.m3u8?id=03e03232703d299b6c5734f551f6b2732f805705&pid=108
