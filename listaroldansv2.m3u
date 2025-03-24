@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
 http://192.168.1.214:6877/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47&pid=1
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
@@ -81,9 +81,9 @@ http://192.168.1.214:6877/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da3
 http://192.168.1.214:6877/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4&pid=40
 #EXTINF:0 type="stream" channelId="-1" name="M. LaLiga 4" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png", M. LaLiga 4
 http://192.168.1.214:6877/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f&pid=41
-#EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
+#EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
 http://192.168.1.214:6877/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980&pid=42
-#EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
+#EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Hypermotion
 http://192.168.1.214:6877/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=43
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
 http://192.168.1.214:6877/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=44
