@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47&pid=1
+http://192.168.1.214:6877/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=1
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=2
+http://192.168.1.214:6877/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=2
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=3
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=3
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=4
+http://192.168.1.214:6877/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47&pid=4
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga
 http://192.168.1.214:6877/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&pid=5
 #EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", DAZN LaLiga 2
