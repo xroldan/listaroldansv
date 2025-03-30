@@ -231,3 +231,5 @@ http://192.168.1.214:6877/ace/manifest.m3u8?id=03e03232703d299b6c5734f551f6b2732
 http://192.168.1.214:6877/ace/manifest.m3u8?id=00f775079c002195563f3dc0a88e355bc19162b2&pid=115
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 (POR)" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1 (POR)
 http://192.168.1.214:6877/ace/manifest.m3u8?id=e0166eb5ca75d311a936eb12705c0cd52b622f06&pid=116
+#EXTINF:0 type="stream" channelId="-1" name="Premier Sports 1" group="(no group)" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKbLZSZT2FNmm4vGl358DQr55KMPXDqzcQ&s", Premier Sports 1
+http://192.168.1.214:6877/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=117
