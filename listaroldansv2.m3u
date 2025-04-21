@@ -68,7 +68,7 @@ http://192.168.1.214:6877/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b
 #EXTINF:0 type="stream" channelId="-1" name="LaLiga Hypermotion 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga Hypermotion 2
 http://192.168.1.214:6877/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=34
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png", Movistar Plus
-http://192.168.1.214:6877/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=35
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=35
 #EXTINF:0 type="stream" channelId="-1" name="Movistar Plus 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png", Movistar Plus 2
 http://192.168.1.214:6877/ace/manifest.m3u8?id=bbd251f89bc7716e2bef237906ecfba3c562ecde&pid=36
 #EXTINF:0 type="stream" channelId="-1" name="M. Deportes" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", M. Deportes
