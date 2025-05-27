@@ -173,29 +173,33 @@ http://192.168.1.214:6877/ace/manifest.m3u8?id=62b6cdc347e9b5f5aff089055365805e4
 http://192.168.1.214:6877/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=86
 #EXTINF:0 type="stream" channelId="-1" name="Tennis Channel" group="(no group)" logo="", Tennis Channel
 http://192.168.1.214:6877/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&pid=87
+#EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
+http://192.168.1.214:6877/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909&pid=88
+#EXTINF:0 type="stream" channelId="-1" name="EuroSport 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", EuroSport 1
+http://192.168.1.214:6877/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d&pid=89
 #EXTINF:0 type="stream" channelId="-1" name="EuroSport 2" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", EuroSport 2
-http://192.168.1.214:6877/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=88
+http://192.168.1.214:6877/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=90
 #EXTINF:0 type="stream" channelId="-1" name="LA 1" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png", LA 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=7225e4b281975f1a36d61dfd9724b669d7747b70&pid=89
+http://192.168.1.214:6877/ace/manifest.m3u8?id=7225e4b281975f1a36d61dfd9724b669d7747b70&pid=91
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 (DE)" group="(no group)" logo="", DAZN 1 (DE)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229&pid=90
+http://192.168.1.214:6877/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229&pid=92
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 BAR" group="(no group)" logo="", DAZN 1 BAR
-http://192.168.1.214:6877/ace/manifest.m3u8?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c&pid=91
+http://192.168.1.214:6877/ace/manifest.m3u8?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c&pid=93
 #EXTINF:0 type="stream" channelId="-1" name="SuperTennis" group="(no group)" logo="", SuperTennis
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3&pid=92
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3&pid=94
 #EXTINF:0 type="stream" channelId="-1" name="SuperTennis" group="(no group)" logo="", SuperTennis
-http://192.168.1.214:6877/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=93
+http://192.168.1.214:6877/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=95
 #EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 1 (UK)" group="(no group)" logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg", TNT SPORTS 1 (UK)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=94
+http://192.168.1.214:6877/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=96
 #EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 1 (UK)" group="(no group)" logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg", TNT SPORTS 1 (UK)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=03e03232703d299b6c5734f551f6b2732f805705&pid=95
+http://192.168.1.214:6877/ace/manifest.m3u8?id=03e03232703d299b6c5734f551f6b2732f805705&pid=97
 #EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 4 (POL)" group="(no group)" logo="https://th.bing.com/th/id/OIP.llXIXyJ3vWbn1wNxBlgxCwHaEK?rs=1&pid=ImgDetMain", Polsat Sport Premium 4 (POL)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=00f775079c002195563f3dc0a88e355bc19162b2&pid=96
+http://192.168.1.214:6877/ace/manifest.m3u8?id=00f775079c002195563f3dc0a88e355bc19162b2&pid=98
 #EXTINF:0 type="stream" channelId="-1" name="DAZN 1 (POR)" group="(no group)" logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", DAZN 1 (POR)
-http://192.168.1.214:6877/ace/manifest.m3u8?id=e0166eb5ca75d311a936eb12705c0cd52b622f06&pid=97
+http://192.168.1.214:6877/ace/manifest.m3u8?id=e0166eb5ca75d311a936eb12705c0cd52b622f06&pid=99
 #EXTINF:0 type="stream" channelId="-1" name="Premier Sports 1" group="(no group)" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKbLZSZT2FNmm4vGl358DQr55KMPXDqzcQ&s", Premier Sports 1
-http://192.168.1.214:6877/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=98
+http://192.168.1.214:6877/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=100
 #EXTINF:0 type="stream" channelId="-1" name="getafe-athletic" group="(no group)" logo="", getafe-athletic
-http://192.168.1.214:6877/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537&pid=99
+http://192.168.1.214:6877/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537&pid=101
 #EXTINF:0 type="stream" channelId="-1" name="getafe-athletic" group="(no group)" logo="", getafe-athletic
-http://192.168.1.214:6877/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&pid=100
+http://192.168.1.214:6877/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&pid=102
